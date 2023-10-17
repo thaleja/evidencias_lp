@@ -1,0 +1,10 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+   - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Documentación
+
+nombres: Alejandra Tamayo Hernandez
+submodulo: Lógica de Programación
+periodo: 2023-2
+url_foto: Snapchat-537396417.jpg
